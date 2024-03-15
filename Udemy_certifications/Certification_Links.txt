@@ -1,0 +1,50 @@
+Google Cloud Platform (GCP) Fundamentals for Beginners
+https://www.udemy.com/certificate/UC-e8fafc7d-ef33-40d0-9ac0-af621d7b62cc/
+
+Git Going Fast: One Hour Git Crash Course
+https://www.udemy.com/certificate/UC-31bc1e11-bbb1-4a84-870f-7d51324361e7/
+
+Elegant Browser Automation with Python and Selenium
+https://udemy.com/certificate/UC-059760c8-97bf-4cba-88d8-80ba13f2285e/
+
+Intro to ChatGPT and Generative AI
+https://udemy.com/certificate/UC-e2515555-3b92-470b-8033-1c9e1f45c6ab/
+
+SAP MM Training - in Plain English
+https://udemy.com/certificate/UC-66d085a4-48e8-4283-9d0a-73baa87c4b02/
+
+SAP S/4HANA Transportation Management (TM) 1909 - Functional
+https://udemy.com/certificate/UC-f695e23d-cb31-4ad0-b783-def021e185a6/
+
+Selenium WebDriver: Selenium Automation Testing with Python
+https://udemy.com/certificate/UC-64e22820-5350-4d8f-b407-e00fab9c328f/
+
+Google Bard Generative AI Masterclass : Certification Course
+https://udemy.com/certificate/UC-14dd5031-af5c-42d7-a9a0-b81473bd0d0e/
+
+Web Automation with Selenium WebDriver and Python
+https://udemy.com/certificate/UC-b6c25bc1-33a1-467d-9131-4c02ba47407e/
+
+Selenium IDE - Basic of Test Automation
+https://udemy.com/certificate/UC-699f87c7-9ad1-4254-a912-b32dfff97c08/
+
+The Beginners Guide To Learning HTML/HTML5 the right way.
+https://udemy.com/certificate/UC-2b20419b-0332-4669-86d0-f4ea6dfd147c/
+
+Unit Testing and Test Driven Development in Python
+https://udemy.com/certificate/UC-6e992e0e-04d3-405d-a92b-8ca6b43cde27/
+
+SAP : Supply Chain Logistics & Transportation in S/4 HANA
+https://udemy.com/certificate/UC-f7759d88-338e-4d89-b59e-17cd3aa6401e/
+
+Postman Tutorial: Getting Started with API Testing
+https://udemy.com/certificate/UC-99c3aae6-697c-48ee-b410-41bcc42b585c/
+
+Gherkin Language - The Master Guide
+https://udemy.com/certificate/UC-6816ce70-71d8-407a-97d3-35af00409e14/
+
+DevOps , CI/CD(Continuous Integration/Delivery for Beginners
+https://udemy.com/certificate/UC-0f3c65bd-0776-482a-af2d-acdba864a8e9/
+
+Executive Briefing: Artificial Intelligence (AI) + ChatGPT
+https://udemy.com/certificate/UC-4800b206-422f-4a51-8085-bf3f8b43c715/
